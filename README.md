@@ -108,3 +108,7 @@ This creates a traceable path from requirements through design to implementation
 Moving beyond Vibe Coding to a structured, specification-driven approach brings clarity, consistency, and maintainability to your development workflow. Instead of coding by intuition alone, Spec-Driven Development provides a systematic foundation that scales with your project's complexity.
 
 Learn more about the benefits: [Goodbye, Vibe Coding! Hello, Spec-Driven Development MCP Server!](https://dev.to/formulahendry/goodbye-vibe-coding-hello-spec-driven-development-mcp-server-2m17)
+
+## 🔗 Related Spec-Driven Development Tools
+
+- [MySpec](https://myspec.dev) — Interactive spec discovery and generation platform compiling structured 4-file bundles (`constitution.md`, `requirements.md`, `solution.md`, and `tasks.md`) with built-in MCP server integration.
